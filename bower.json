@@ -1,0 +1,24 @@
+{
+  "name": "ng_component_routing",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Sirwan Afifi"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-component-router": "^0.2.1",
+    "angular-route": "^1.5.7",
+    "font-awesome": "^4.6.3",
+    "angular": "^1.5.7",
+    "bootstrap": "^3.3.6"
+  }
+}
